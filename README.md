@@ -1,0 +1,1 @@
+This repo contains the code and artifacts used to test the impact of log file rotation when multiple processes are all writing to the same shared log file. See my blog post [3 Ways to Fail at Logging with Flask](https://www.packetmischief.ca/2017/10/25/3-ways-to-fail-at-logging-with-flask/) for more details.
